@@ -396,7 +396,7 @@ Explore the complete Python implementation, including:
 - Evaluation using MAE, RMSE, MAPE, and WMAPE.
 - Interpretation of forecasting results.
 
-🔗 **GitHub Notebook:** [Add Naive Forecast Notebook Link Here]
+🔗 **GitHub Notebook:** [Naive Forecast Notebook](https://github.com/ashay-thamankar/time_series_models/blob/main/Naive_and_Seasonal_Naive/Naive_Forecast.ipynb)
 
 ### 📓 Notebook 2 – Seasonal Naive Forecast
 
@@ -411,7 +411,7 @@ Explore the complete Python implementation, including:
 - Evaluation using MAE, RMSE, MAPE, and WMAPE.
 - Interpretation of forecasting results.
 
-🔗 **GitHub Notebook:** [Add Seasonal Naive Forecast Notebook Link Here]
+🔗 **GitHub Notebook:** [Seasonal Naive Forecast](https://github.com/ashay-thamankar/time_series_models/blob/main/Naive_and_Seasonal_Naive/Seasonal_Naive_Forecast.ipynb)
 
 ---
 
