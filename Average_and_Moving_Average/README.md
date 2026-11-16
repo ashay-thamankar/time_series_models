@@ -675,7 +675,7 @@ It includes:
 - Forecast visualizations and evaluation metrics
 - Exercises to reinforce the concepts
 
-GitHub Notebook: [Notebook Link]()
+GitHub Notebook: [Notebook Link](https://github.com/ashay-thamankar/time_series_models/blob/main/Average_and_Moving_Average/Average_and_Moving_Average.ipynb)
 
 ---
 
