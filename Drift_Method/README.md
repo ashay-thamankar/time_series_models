@@ -252,6 +252,8 @@ The accompanying notebook, `Drift_Method_Forecasting.ipynb`, includes:
 11. Practical considerations and common mistakes.
 12. Hands-on exercises and key takeaways.
 
+Drift Method Implementation: [Notebook Link](https://github.com/ashay-thamankar/time_series_models/blob/main/Drift_Method/Drift_Method_Forecasting.ipynb)
+
 The notebook uses synthetic data so it can be run independently without downloading a dataset.
 
 ## 13. Key takeaways
