@@ -317,7 +317,7 @@ Use chronological train, validation, and test splits. Do not randomly shuffle ti
 - Alpha experimentation.
 - Takeaways.
 
-Python Implementation: [Notebook Link]()
+Python Implementation: [Notebook Link](https://github.com/ashay-thamankar/time_series_models/blob/main/Croston_and_SBA/Croston_Method_Forecasting.ipynb)
 
 ### SBA notebook
 
@@ -331,7 +331,7 @@ Python Implementation: [Notebook Link]()
 - Alpha experimentation.
 - Takeaways.
 
-Python Implementation: [Notebook Link]()
+Python Implementation: [Notebook Link](https://github.com/ashay-thamankar/time_series_models/blob/main/Croston_and_SBA/SBA_Method_Forecasting.ipynb)
 
 
 ## 9. References and further learning
