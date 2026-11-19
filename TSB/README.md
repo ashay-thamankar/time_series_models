@@ -385,7 +385,7 @@ The notebook includes:
 - Comparison with Croston and SBA
 - Key takeaways
 
-Python Implementation: [Notebook Link]()
+Python Implementation: [Notebook Link](https://github.com/ashay-thamankar/time_series_models/blob/main/TSB/TSB_Method_Forecasting.ipynb)
 
 ---
 
